@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Sebastien THIEBAUD" => "sthiebaud@icloud.com" }
   s.source       = { 
-    :git => "https://github.com/SebastienThiebaud/STTweetLabel.git", 
+    :git => "https://github.com/thedoritos/STTweetLabel.git", 
     :tag => "3.1.16"
   }
 
